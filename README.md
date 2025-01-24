@@ -1,5 +1,6 @@
 # EDA-PROJECT-1
 Tourism Management
+
 This dataset contains data on tourism management, with a focus on resource allocation and service delivery at various tourist destinations. The dataset includes information on visitor counts, environmental factors, resource type and availability, visitor reviews and other key indicators that affect tourist experiences. The purpose of this dataset is to support the optimization of resource allocation, improve service delivery, and enhance the tourist experience.
 
 The analysis of the Tourism Resource Allocation Management dataset gives a comprehensive understanding of visitor behavior, resource availability, environmental conditions and ratings at 3 different tourist locations. By examining variations in visitor counts, stay durations and ratings, we come across patterns that reflect how different factors like weather, resource availability and overcrowding shape tourist experiences.
