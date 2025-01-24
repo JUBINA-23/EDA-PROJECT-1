@@ -1,4 +1,4 @@
-Exploratory Data Analysis Project of the Tourism Management Dataset
+Project Analysis of Tourism Management Dataset
 
 This dataset contains data on tourism management, with a focus on resource allocation and service delivery at various tourist destinations. The dataset includes information on visitor counts, environmental factors, resource type and availability, visitor reviews and other key indicators that affect tourist experiences. The purpose of this dataset is to support the optimization of resource allocation, improve service delivery, and enhance the tourist experience.
 
